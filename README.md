@@ -1,1 +1,1 @@
-# Nearest-Centroid-Classifier
+# Minimum Distance Classifier (MDC)

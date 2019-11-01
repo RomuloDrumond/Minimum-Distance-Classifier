@@ -8,7 +8,7 @@ To install dependencies run `pip install -r requirements.txt` on the main direct
 
 ### Important libraries used:
 
-* Sklearn, for easy data sets access and some handy functions;
+* Sklearn, for the easy  access to data sets and some handy functions
 * Plotly, for beautiful graphs;
 * Numpy, for vector and matrices computation;
 * Scipy, for the fast `cdist` function;
